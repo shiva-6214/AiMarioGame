@@ -1,0 +1,46 @@
+.heading h3 {
+    text-align: left;
+    color: white;
+    display: inline;
+    float: left;
+}
+
+#btnInstruction {
+    float: right;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+
+.big_image {
+    width: 100%;
+}
+
+#btnPlayGame {
+    font-size: 18px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+.gameCredit {
+    margin: 0px;
+    background-color: coral;
+    line-height: 2;
+}
+
+.img_modal {
+    display: inline-block;
+    width: 45%;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
